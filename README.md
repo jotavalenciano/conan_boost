@@ -1,2 +1,6 @@
 # conan_boost
-This project is a example on how to set a conan project with the boost library
+This project is a example on how to set a cmake conan project with the boost library. It works in Windows and Linux
+
+## Requisits
+* Conan
+* Cmake
